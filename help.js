@@ -632,17 +632,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lang
- • *Umur:* 15 tahun
- • *Hoby:* Turu/Ngoding
- • *Askot:* PekanBaru
+ • *Nama:* Niq Qyle
+ • *Umur:* 1* tahun
+ • *Hoby:* Koreo/Game
+ • *Askot:* Mende
  • *Konten:* Kaga Ad
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 082284899110
- • *Youtube:* LangBotz
- • *Github:* GilangSan
+ • *Whatsapp:* 0177302593
+ • *Youtube:* IG :jstme._____
+ • *Github:* qylemmghebatla
  `
 }
